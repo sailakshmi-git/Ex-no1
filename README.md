@@ -68,6 +68,9 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
+<img width="641" height="445" alt="image" src="https://github.com/user-attachments/assets/84a8e841-2b7e-4716-a138-53e63e2a5814" />
+
+
 ## 2. SUBTRACTION
 
 #### Algorithm
