@@ -55,11 +55,13 @@ END
 #### Output Table
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
-
+| ------------------------|--------------------------|
+|          1234           |       1204 = 24          |
+|-------------------------|--------------------------|
+|          1234           |       1205 = 68          |
+|-------------------------|--------------------------|
+|          2468           |       1206 = 00          |
+|-------------------------|--------------------------|
 #### Manual Calculations
 
 <img width="1600" height="1303" alt="image" src="https://github.com/user-attachments/assets/293bf028-0fe2-4a4f-ad33-4ce2c2ac403d" />
@@ -167,7 +169,7 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="1005" alt="image" src="https://github.com/user-attachments/assets/814e8b07-cf8a-4fb5-85eb-a900280ba5c8" />
 
 ---
 
@@ -215,7 +217,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1204" height="1280" alt="image" src="https://github.com/user-attachments/assets/871d9544-e181-4ac6-b42b-a31edcc73e65" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
